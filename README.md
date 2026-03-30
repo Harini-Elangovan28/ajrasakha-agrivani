@@ -29,7 +29,7 @@ By extracting expert-validated rules directly from official government PDFs and 
 
 1. **Clone the repository**
    ```sh
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/engenius-dev/ajrasakha-agrivani.git
    cd ajrasakha-agrivani
 
 2. **Start the Frontend**
